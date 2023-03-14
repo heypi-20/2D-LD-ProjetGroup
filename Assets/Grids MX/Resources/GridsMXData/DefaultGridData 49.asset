@@ -17,8 +17,8 @@ MonoBehaviour:
     m_x: 50
     m_y: 50
     m_z: 50
-  m_gridSize: 100
-  m_rotationSnapAngle: 0
+  m_gridSize: 16250
+  m_rotationSnapAngle: 0.1
   m_xAxisProperties:
     isVisibleInEditor: 1
     isSnapEnabled: 1
