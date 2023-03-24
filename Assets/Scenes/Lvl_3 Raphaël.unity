@@ -10461,7 +10461,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1225814408692407094, guid: 02929ecefdff4314f9a66b2d803dd96c, type: 3}
       propertyPath: m_Name
-      value: Trigger_EndingLevel
+      value: Trigger_End_Blanc
       objectReference: {fileID: 0}
     - target: {fileID: 1225814408692407094, guid: 02929ecefdff4314f9a66b2d803dd96c, type: 3}
       propertyPath: m_Layer

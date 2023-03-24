@@ -8136,7 +8136,7 @@ GameObject:
   - component: {fileID: 1239243974}
   - component: {fileID: 1239243973}
   m_Layer: 0
-  m_Name: End_Noir
+  m_Name: End_trigger_Blanc
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -14215,7 +14215,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1225814408692407094, guid: 02929ecefdff4314f9a66b2d803dd96c, type: 3}
       propertyPath: m_Name
-      value: Trigger_EndingLevel
+      value: Trigger_End_Noir
       objectReference: {fileID: 0}
     - target: {fileID: 1225814408692407094, guid: 02929ecefdff4314f9a66b2d803dd96c, type: 3}
       propertyPath: m_Layer
