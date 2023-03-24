@@ -655,7 +655,7 @@ Transform:
   - {fileID: 735960812}
   - {fileID: 1852296004}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &180677982
 PrefabInstance:
@@ -5413,7 +5413,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1471269675
 MonoBehaviour:
@@ -6906,6 +6906,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 770993563162674145, guid: 02929ecefdff4314f9a66b2d803dd96c, type: 3}
+      propertyPath: levelname
+      value: Lvl_1 Denis
+      objectReference: {fileID: 0}
     - target: {fileID: 770993563162674151, guid: 02929ecefdff4314f9a66b2d803dd96c, type: 3}
       propertyPath: m_RootOrder
       value: 1
