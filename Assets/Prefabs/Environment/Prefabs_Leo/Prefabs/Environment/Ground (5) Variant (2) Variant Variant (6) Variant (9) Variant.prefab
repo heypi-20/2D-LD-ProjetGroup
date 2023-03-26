@@ -63,5 +63,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground (5) Variant (2) Variant Variant (6) Variant (9) Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 4528836853690047599, guid: 1d627e08c6b1b324aa541e19904a60c7, type: 3}
+      propertyPath: m_Color.b
+      value: 0.7018868
+      objectReference: {fileID: 0}
+    - target: {fileID: 4528836853690047599, guid: 1d627e08c6b1b324aa541e19904a60c7, type: 3}
+      propertyPath: m_Color.g
+      value: 0.7018868
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d627e08c6b1b324aa541e19904a60c7, type: 3}
